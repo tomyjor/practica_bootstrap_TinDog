@@ -1,4 +1,7 @@
-h1 {  font-family: 'Montserrat', sans-serif; size: 3rem; line-height: 1.5;}
+h1 {
+    font-family: 'Montserrat', sans-serif; size: 3rem; line-height: 1.5;
+}
+
 #title{
     background-color: #ff4c68;
 }
