@@ -1,10 +1,30 @@
-h1 {
-    font-family: 'Montserrat', sans-serif; size: 3rem; line-height: 1.5;
-}
-
+h1 {  font-family: 'Montserrat', sans-serif; size: 3rem; line-height: 1.5;}
 #title{
     background-color: #ff4c68;
+    font-size:larger
 }
+
+#descripcion{
+    padding-top: 7rem;
+    margin-left: 10%;
+    font-size: 4rem;
+    color: white;
+    margin-top: -3rem;
+}
+
+#iphone{
+    transform: rotate(25deg);
+    margin-top:5rem ;
+    margin-left: 3rem;
+    width: 51%;
+}
+#boton-descarga{
+    padding-top: 4rem;
+    margin-left: 20%;
+   
+}
+
+
 
 .container-fluid{
     padding: 3% 15%;
