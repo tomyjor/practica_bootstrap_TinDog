@@ -24,7 +24,39 @@ h1 {  font-family: 'Montserrat', sans-serif; size: 3rem; line-height: 1.5;}
    
 }
 
+#features{
+    
+    font-size:larger 
+    
+}
 
+.fa-check-circle {
+    color: salmon;
+
+}
+
+.fa-check-circle:hover {
+    color: red;
+
+}
+
+.fa-paw {
+    color: salmon;
+
+}
+
+.fa-paw:hover {
+    color: red;
+}
+
+.fa-heart{
+    color: salmon;
+
+}
+
+.fa-heart:hover {
+    color: red;
+}
 
 .container-fluid{
     padding: 3% 15%;
